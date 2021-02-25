@@ -4,6 +4,8 @@ import server.chat.MyServer;
 
 import java.io.IOException;
 
+//Server
+
 public class ServerApp {
 
     public static final int DEFAULT_PORT = 8888;
